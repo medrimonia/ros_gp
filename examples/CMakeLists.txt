@@ -3,4 +3,4 @@
 # All rights reserved.
 
 ADD_EXECUTABLE(gpdense gp_example_dense.cc)
-TARGET_LINK_LIBRARIES(gpdense gp)
+TARGET_LINK_LIBRARIES(gpdense ros_gp)

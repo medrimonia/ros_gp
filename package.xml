@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <name>ros_gp</name>
+  <version>0.0.0</version>
+  <description>A package containing a gaussian process library developed by Manuel Blum</description>
+
+  <maintainer email="medrimonia@gmail.com">medrimonia</maintainer>
+  <author>Manuel Blum</author>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>cmake_modules</build_depend>
+
+  <run_depend>tinyxml</run_depend>
+
+  <export>
+  </export>
+</package>
